@@ -5,12 +5,12 @@ e제이코어(eJCore)
 * 이종형대표 jhl@jcore.co.kr
 * 차유정이사 cha@jcore.co.kr
 ## 개발 필요성
-![LTE용 IP-PTT 단말기(DJ-CP100)](image\DJ-CP100.png)
+![LTE용 IP-PTT 단말기(DJ-CP100)](image/DJ-CP100.png)
 * Quectel EC25J 칩 기반 Quectel QuecOpen development platform 활용
 * **최신 음성 인식 기술**을 추가하여 **NTT도코모의 아성**에 도전
 ## 구현 관련 분석
 ### STT (Speech-to-Text) 기능 구현의 한계
-![구성도](image\before.png)
+![구성도](image/before.png)
 ___
 <!-- 테이블 -->
 |플랫폼|단점|비고|
@@ -20,7 +20,7 @@ ___
 |MCU|<ul><li>python환경 없음</li></ul>|<ul><li>WIFI</li><li>Mic/Speaker</li><li></li>STT_API 구현 필요</ul>|
 |
 ### STT (Speech-to-Text) 기능 한계 극복 방안
-![구성도](image\after.png)
+![구성도](image/after.png)
 * 개인 음성에 특화된 End-to-End Machine Learning 환경 제공
     + 개인 특정 음성 파일 입력
     + 음성 인식 모델 생성
@@ -37,4 +37,3 @@ ___
     + Audio
     + 모델 만들기
     + MCU에 넣기
-    
