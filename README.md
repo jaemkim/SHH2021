@@ -36,6 +36,12 @@ ___
     + 개인 특정 음성 파일 입력
     + 음성 인식 모델 생성
 ___
+## 해커톤 목표
+![목표구성도](image/target.png)
+* IoT보드에서 음성 입력
+* 음성을 AWS Transcribe를 통해 기능 호출(STT)
+* 결과 text를 LCD에 출력
+___
 ## 사전 워크숍
 * 2020.12.12 / Cat.M1
   + Quectel BG96 칩 사용
@@ -88,12 +94,23 @@ ___
   + WIFI 설정
   + Thingspark 접속
 ___
-## To Do List
-- [x] WIFI 접속
-- [x] Audio 사용
-- [x] AWS Transcribe 사용하기
+## 목표 접근을 위한 준비
+- [ ] WIFI 접속
+  + 방진석 책임 포팅 : [Devin Brown 제공 API](https://github.com/devinbrown7/BSP_B-L475E-IOT01)
+  + X-CUBE-AWS 패키지 활용[AWS IoT software expansion for STM32Cube (UM2178)](https://www.st.com/en/embedded-software/x-cube-aws.html)
+- [ ] Audio 사용
+  + 참조: [MOOC - STM32L4 hands-on workshop](https://www.youtube.com/watch?v=LfE0LiwE1VU&t=703s)
+    + 오디오 재생 실패 : step 1-6 중 step 3 file system 추가 부문에서 오류
+  + X-CUBE-AWS 패키지 활용
+    + 참조: [Getting started with XCUBE VS4A (Alexa Voice Service)](https://y2u.be/u2Zu5G0PHx8)
+___
+## 해커톤에서 구현할 일
+- [x] **STT 기능 구현**
+___
+## 해커톤 후 할 일
 - [x] STT 모델 만들기
 - [x] MCU에 넣기
 - [x] 상용 STT 모델 만들기
 - [x] 개인 특성 고려 End-to-End Production Line 구축
 
+___
