@@ -96,8 +96,8 @@ ___
 ___
 ## 목표 접근을 위한 준비
 - [ ] WIFI 접속
-  + 방진석 책임 포팅 : [Devin Brown 제공 API](https://github.com/devinbrown7/BSP_B-L475E-IOT01)
-  + X-CUBE-AWS 패키지 활용[AWS IoT software expansion for STM32Cube (UM2178)](https://www.st.com/en/embedded-software/x-cube-aws.html)
+  + 방진석 책임 포팅: [Devin Brown 제공 API](https://github.com/devinbrown7/BSP_B-L475E-IOT01)
+  + X-CUBE-AWS 패키지 활용: [AWS IoT software expansion for STM32Cube (UM2178)](https://www.st.com/en/embedded-software/x-cube-aws.html)
 - [ ] Audio 사용
   + 참조: [MOOC - STM32L4 hands-on workshop](https://www.youtube.com/watch?v=LfE0LiwE1VU&t=703s)
     + 오디오 재생 실패 : step 1-6 중 step 3 file system 추가 부문에서 오류
