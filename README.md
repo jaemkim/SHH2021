@@ -37,10 +37,10 @@ ___
     + 음성 인식 모델 생성
 ___
 ## 해커톤 목표
-![목표구성도](image/target.png)
-* IoT보드에서 음성 입력
-* 음성을 AWS Transcribe를 통해 기능 호출(STT)
-* 결과 text를 LCD에 출력
+* 목표구성도![목표 구성도](image/target.png)
+  - IoT보드에서 음성 입력
+  - 음성을 AWS Transcribe를 통해 기능 호출(STT)
+  - 결과 text를 LCD에 출력
 ___
 ## 사전 워크숍
 * 2020.12.12 / Cat.M1
