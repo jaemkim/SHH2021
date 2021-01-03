@@ -123,4 +123,8 @@ ___
   - Recognize_google 사용 확인
   - TinyML 음성 모델 생성
   - 적용 및 시험
+## 서울 하드웨어 해커톤 참가 소감
+* 처음 참가. 시도해 볼 수 있는 기회를 주셔서 감사
+* Audio는 어렵다 (Quectel: ALSA 대신 자체 솔루션)
+* 현재 IoT 보드보다는 Quectel EC25J 환경이 매우 양호하므로 tinyML 적용이 기대됨
 ___
