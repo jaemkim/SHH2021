@@ -113,7 +113,9 @@ ___
 * 참조: [HOW TO INSTALL ALEXA ON RASPBERRY PI 3](https://y2u.be/zSiR81RQiu0)
 ### IoT 보드 구동
 미완성 작품![미완성 작품](image/result.png)
+
 관련 코드![코드](image/code.png)
+
 ___
 ## 해커톤 후 할 일
 * Mic/Spk 제어
@@ -123,6 +125,8 @@ ___
   - Recognize_google 사용 확인
   - TinyML 음성 모델 생성
   - 적용 및 시험
+
+___
 ## 서울 하드웨어 해커톤 참가 소감
 * 처음 참가. 시도해 볼 수 있는 기회를 주셔서 감사
 * Audio는 어렵다 (Quectel: ALSA 대신 자체 솔루션)
