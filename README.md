@@ -104,13 +104,24 @@ ___
   + X-CUBE-AWS 패키지 활용
     + 참조: [Getting started with XCUBE VS4A (Alexa Voice Service)](https://y2u.be/u2Zu5G0PHx8)
 ___
-## 해커톤에서 구현할 일
-- [x] **STT 기능 구현**
+## 해커톤에서 한 일
+### Nextion을 이용한 결과 화면 구성
+결과 확인 화면 ![결과 확인 화면](image/ui.png)
+* 참조 자료
+  + Nextion Display 설정: [Nextion HMI를 이용한 Touch GUI 쉽게 사용하기](https://y2u.be/sak-Z84CiCs)
+  + STM32 Nextion LCD 연동: [Nextion Display interface with STM32 Microcontroller](https://y2u.be/boTvqds1xBU)
+### Alexa @ Raspberry Pi 4
+**[Alexa 구동 장면](https://youtu.be/879WQAqE730)**
+* 참조: [HOW TO INSTALL ALEXA ON RASPBERRY PI 3](https://y2u.be/zSiR81RQiu0)
+### IoT 보드 구동
+미완성 작품![미완성 작품](image/result.png)
 ___
 ## 해커톤 후 할 일
-- [x] STT 모델 만들기
-- [x] MCU에 넣기
-- [x] 상용 STT 모델 만들기
-- [x] 개인 특성 고려 End-to-End Production Line 구축
-
+* Mic/Spk 제어
+* Alexsa Transcribe
+  + **Recognize_google**로 변경 필요
+* DJ-CP100 적용
+  - Recognize_google 사용 확인
+  - TinyML 음성 모델 생성
+  - 적용 및 시험
 ___
