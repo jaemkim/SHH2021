@@ -104,19 +104,22 @@ ___
 ___
 ## 해커톤에서 한 일
 ### Nextion을 이용한 결과 화면 구성
-결과 확인 화면 ![결과 확인 화면](image/ui.png)
+* 결과 확인 화면
+![결과 확인 화면](image/ui.png)
+
 * 참조 자료
   + Nextion Display 설정: [Nextion HMI를 이용한 Touch GUI 쉽게 사용하기](https://y2u.be/sak-Z84CiCs)
   + STM32 Nextion LCD 연동: [Nextion Display interface with STM32 Microcontroller](https://y2u.be/boTvqds1xBU)
 ### Alexa @ Raspberry Pi 4
-**[Alexa 구동 장면](https://www.youtube.com/watch?v=879WQAqE730&feature=youtu.be)**
+**[Alexa 구동 장면](https://y2u.be/879WQAqE730)**
 * 참조: [HOW TO INSTALL ALEXA ON RASPBERRY PI 3](https://y2u.be/zSiR81RQiu0)
 ### IoT 보드 구동
-미완성 작품![미완성 작품](image/result.png)
+* 미완성 작품![미완성 작품](image/result.png)
 
-**동영상** [IoT_STT](https://www.youtube.com/watch?v=LIximhFlaUA&feature=youtu.be)
+* **동영상** [IoT_STT](https://y2u.be/LIximhFlaUA)
 
-관련 코드![코드](image/code.png)
+* 관련 코드
+![코드](image/code.png)
 
 ___
 ## 해커톤 후 할 일
