@@ -114,6 +114,8 @@ ___
 ### IoT 보드 구동
 미완성 작품![미완성 작품](image/result.png)
 
+**동영상** [IoT_STT](https://youtu.be/LIximhFlaUA)
+
 관련 코드![코드](image/code.png)
 
 ___
