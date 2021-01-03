@@ -8,9 +8,7 @@ e제이코어(eJCore) 팀
 * 김재명 책임연구원 jmketri@gmail.com
   + SW 개발
   + 정년퇴직 준비 중
-> ★ DJ-CP100 단말 양산준비로 인해 해커톤에 불참 
-
-> ☆ 대표로 김재명 책임만 참석
+> ★ DJ-CP100 단말 양산준비로 인해 토/일요일 없이 출근
 ___
 ## 개발 필요성
 ![LTE용 IP-PTT 단말기(DJ-CP100)](image/DJ-CP100.png)
@@ -115,6 +113,7 @@ ___
 * 참조: [HOW TO INSTALL ALEXA ON RASPBERRY PI 3](https://y2u.be/zSiR81RQiu0)
 ### IoT 보드 구동
 미완성 작품![미완성 작품](image/result.png)
+관련 코드![코드](image/code.png)
 ___
 ## 해커톤 후 할 일
 * Mic/Spk 제어

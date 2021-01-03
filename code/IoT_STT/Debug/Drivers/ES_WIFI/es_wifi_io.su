@@ -1,0 +1,6 @@
+es_wifi_io.c:73:6:SPI_WIFI_MspInit	56	static
+es_wifi_io.c:144:8:SPI_WIFI_Init	24	static
+es_wifi_io.c:202:8:SPI_WIFI_DeInit	8	static
+es_wifi_io.c:215:9:SPI_WIFI_ReceiveData	40	static
+es_wifi_io.c:283:9:SPI_WIFI_SendData	32	static
+es_wifi_io.c:327:6:SPI_WIFI_Delay	16	static
