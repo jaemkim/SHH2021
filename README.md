@@ -109,12 +109,12 @@ ___
   + Nextion Display 설정: [Nextion HMI를 이용한 Touch GUI 쉽게 사용하기](https://y2u.be/sak-Z84CiCs)
   + STM32 Nextion LCD 연동: [Nextion Display interface with STM32 Microcontroller](https://y2u.be/boTvqds1xBU)
 ### Alexa @ Raspberry Pi 4
-**[Alexa 구동 장면](https://youtu.be/879WQAqE730)**
+**[Alexa 구동 장면](https://www.youtube.com/watch?v=879WQAqE730&feature=youtu.be)**
 * 참조: [HOW TO INSTALL ALEXA ON RASPBERRY PI 3](https://y2u.be/zSiR81RQiu0)
 ### IoT 보드 구동
 미완성 작품![미완성 작품](image/result.png)
 
-**동영상** [IoT_STT](https://youtu.be/LIximhFlaUA)
+**동영상** [IoT_STT](https://www.youtube.com/watch?v=LIximhFlaUA&feature=youtu.be)
 
 관련 코드![코드](image/code.png)
 
